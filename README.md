@@ -60,3 +60,11 @@ Use this style of script only when the target data is public and allowed to be
 collected, or when the client provides the export/files directly. For live
 websites, check the site terms, robots policy, auth requirements, rate limits,
 and permission from the data owner before running any automated access.
+
+## OIMRQS Ops Context
+
+This repo is part of the OIMRQS Ops public proof shelf: focused programming and technical-ops work across web, internal tools, automations, data cleanup, dashboards, APIs, webhooks, QA and handoff.
+
+- Site: https://oimrqs-ops.x9kqz.uk/
+- Portfolio: https://oimrqs-ops.x9kqz.uk/portfolio/
+- Proof library: https://oimrqs-ops.x9kqz.uk/proof/
